@@ -1,0 +1,34 @@
+.container {
+  /* display: table-caption;
+  margin-left: 300%;
+  width: 114%; */
+}
+
+.form_stuff {
+  display: table-caption;
+  margin-left: 30%;
+  width: 40%;
+  border: 1px solid lightblue;
+  padding: 20px;
+}
+
+h1 {
+  margin-left: 29%;
+}
+
+#cb {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+#birthday {
+  margin-bottom: 8px;
+}
+
+#rb3 {
+  margin-bottom: 10px;
+}
+
+footer {
+  margin-left: 30%;
+}
